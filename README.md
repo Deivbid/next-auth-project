@@ -2,6 +2,10 @@
 
 Welcome to the Next.js Auth Toolkit project! This repository showcases a comprehensive authentication toolkit built with the latest technologies, including Next.js, Auth.js (Next Auth v5), Tailwind CSS, and PostgreSQL. The main goal of this project was to explore and learn how to implement various authentication methods and manage user sessions effectively.
 
+[Live Demo](https://next-auth-project-livid.vercel.app/)
+
+![Login Screen](https://i.imgur.com/eR3eiKW.png)
+
 ## 🚀 Project Highlights
 
 - **Two-Factor Authentication (2FA)**
