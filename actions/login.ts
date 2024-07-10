@@ -22,7 +22,7 @@ export const login = async (
   callbackUrl?: string | null
 ) => {
   const validatedFields = LoginSchema.safeParse(values);
-  console.log("Si llego aqui: ", validatedFields);
+
   if (!validatedFields.success) {
     return { error: "Invalid fields!" };
   }
